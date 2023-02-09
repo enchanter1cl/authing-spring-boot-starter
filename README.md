@@ -2,7 +2,7 @@
 
 A starter for open source maven project 'authing.cn:java-core'. This starter currently only provides the ability to intercept checksum tokens to control access to resources.
 
-开源 Maven 项目 ’auhting.cn:java-core’ 的 starter。本 starter 目前仅提供拦截校验 token 的以控制资源访问权限的功能。
+开源 Maven 项目 ’auhting.cn:java-core’ 的 starter。本 starter 目前仅提供拦截校验 token 以控制资源访问权限的功能。
 
 
 > Authing 快速实现任何 Web、App 和企业软件的身份认证和用户管理，为你的客户和员工提供完善的登录解决方案。
